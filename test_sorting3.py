@@ -1,6 +1,8 @@
+# Add description of the script
+# Here you can also put the expected  usage or different usage patterns
+
 import sys
 print (sys.argv)
-
 file1 = sys.argv[1]
 file2 = sys.argv[2]
 file3 = sys.argv[3]
